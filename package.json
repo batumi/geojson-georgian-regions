@@ -1,0 +1,18 @@
+{
+  "name": "geojson-georgian-regions",
+  "version": "1.0.0",
+  "description": "GeoJson Data For Georgian Regions and Subregions",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bumbeishvili/geojson-georgian-regions.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bumbeishvili/geojson-georgian-regions/issues"
+  },
+  "homepage": "https://github.com/bumbeishvili/geojson-georgian-regions#readme"
+}
